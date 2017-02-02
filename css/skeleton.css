@@ -85,6 +85,7 @@ __________________________________________________ */
   padding: .2em;
   transition: background-color .5s;
   background-color: #c3b7b0;
+  box-shadow: 0 .1em .4em #c3c3c3;
 }
 #project:hover{
   background-color: #d37961;
